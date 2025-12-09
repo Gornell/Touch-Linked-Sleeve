@@ -6,14 +6,17 @@ Ziyuan Tang and
 [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=en) <br>
  2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)<br>
 
-**This repository contains the hardware source files for the paper:**
+**This repository contains the Teleoperation System:**
 
-
+A robotic arm equipped with tactile skin, designed to enhance perception of contact with the environment. 
+Use a VR headset to remotely control a robotic arm, with a haptic feedback sleeve on user's arm for rendering tactile sensations.
 ![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/teaser.png)
+
+
+The design and fabrication procedures of FRS skin. (A) The structure of FRS skin, which consists of fabric substrates, conductive wires, a spacer, and piezoresistive materials. (B) Fabrication procedures based on screen-printing technique.
 ![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/SKIN.png)
 
-Contains structure files and circuit files.
-
+Contains DRV2605L Driver for haptic feedback.
 
 ## Citing
 If you use this project in your research, please cite this [paper](https://ieeexplore.ieee.org/document/11245835):
