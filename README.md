@@ -9,7 +9,7 @@ Ziyuan Tang and
 **This repository contains the hardware source files for the paper:**
 
 
-![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/SKIN.png)
+![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/teaser.png)
 ![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/SKIN.png)
 
 Contains structure files and circuit files.
