@@ -1,4 +1,4 @@
-# Touch-Linked Sleeve
+ # Touch-Linked Sleeve
 
 <b>Touch-Linked Sleeve: A Haptic Interface for Augmented Tactile Perception in Robotic Teleoperation</b> <br>
 Yatao Leng, Yuzhou Chen,
@@ -8,7 +8,9 @@ Ziyuan Tang and
 
 **This repository contains the hardware source files for the paper:**
 
-![image](https://github.com/helloXqin/HumanFt/blob/0b3bc9f11df3e87055748783cf8908fc62e14892/figure/overview%20design.png)
+
+![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/SKIN.png)
+![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/SKIN.png)
 
 Contains structure files and circuit files.
 
