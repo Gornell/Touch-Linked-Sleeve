@@ -10,7 +10,7 @@ Ziyuan Tang and
 
 A robotic arm equipped with tactile skin, designed to enhance perception of contact with the environment. 
 Use a VR headset to remotely control a robotic arm, with a haptic feedback sleeve on user's arm for rendering tactile sensations.
-![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/teaser.png)
+![image](https://github.com/Gornell/Touch-Linked-Sleeve/blob/main/Figures/192617-IROS-poster.pdf)
 
 
 The design and fabrication procedures of FRS skin. (A) The structure of FRS skin, which consists of fabric substrates, conductive wires, a spacer, and piezoresistive materials. (B) Fabrication procedures based on screen-printing technique.
